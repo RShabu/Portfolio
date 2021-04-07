@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?text=Portfolio!type=waving&fontSize=20&rotate=-30)
 
 포트폴리오 작업
 
