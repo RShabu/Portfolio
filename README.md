@@ -4,4 +4,4 @@
 그룹웨어 시스템을 참고하였습니다.
 
 게시판 작성
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_ㅇㅇ&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/꾸미기-컬러코드?style=flat-square&logo=simpleicons&logoColor=white"/></a>
