@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Portfolio&type=waving&fontSize=40&height=200)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 포트폴리오 작업
 
